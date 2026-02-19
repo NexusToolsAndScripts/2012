@@ -1919,6 +1919,8 @@ local words = {
 	[1917] = "Linked"
 }
 
+return words
+
 
 
 -- stolen code on top 
