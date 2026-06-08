@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 """
-BSCR Save Mod Tool
-
-A separate companion save editor for the BSCR game. It does NOT modify the game
-source or executable. Put this file in the same folder as the game .exe and run it
-with Python, or choose the save file manually.
-
-It edits the game's save file: bscr_save.dat
+this is ai slop, for some other random ass game <3
 """
 
 from __future__ import annotations
